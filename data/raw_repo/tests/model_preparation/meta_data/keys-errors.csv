@@ -1,0 +1,5 @@
+LocID,PerilID,CoverageTypeID,Status,Message
+4,WSS,1,fail,area_peril_id has an unknown id
+4,WTC,1,fail,area_peril_id has an unknown id
+4,WSS,3,fail,area_peril_id has an unknown id
+4,WTC,3,fail,area_peril_id has an unknown id

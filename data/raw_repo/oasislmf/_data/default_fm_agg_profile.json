@@ -1,0 +1,163 @@
+{
+    "1": {
+        "FMLevelName": "SiteItem",
+        "FMAggKey": {
+            "loc_id": {
+                "src": "FM",
+                "field": "loc_id",
+                "name": "location id based on unique PortNumber, AccNumber, LocNumber"
+            },
+            "risk_id": {
+                "src": "builtin",
+                "field": "risk_id",
+                "name": "risk id"
+            }
+        }
+    },
+    "2": {
+        "FMLevelName": "SiteCoverage",
+        "FMAggKey": {
+            "loc_id": {
+                "src": "FM",
+                "field": "loc_id",
+                "name": "location id based on unique PortNumber, AccNumber, LocNumber"
+            },
+            "risk_id": {
+                "src": "builtin",
+                "field": "risk_id",
+                "name": "risk id"
+            }
+        }
+    },
+    "3": {
+        "FMLevelName": "SitePD",
+        "FMAggKey": {
+            "loc_id": {
+                "src": "FM",
+                "field": "loc_id",
+                "name": "location id based on unique PortNumber, AccNumber, LocNumber"
+            },
+            "risk_id": {
+                "src": "builtin",
+                "field": "risk_id",
+                "name": "risk id"
+            }
+        }
+    },
+    "4": {
+        "FMLevelName": "SiteAll",
+        "FMAggKey": {
+            "loc_id": {
+                "src": "FM",
+                "field": "loc_id",
+                "name": "location id based on unique PortNumber, AccNumber, LocNumber"
+            },
+            "risk_id": {
+                "src": "builtin",
+                "field": "risk_id",
+                "name": "risk id"
+            }
+        }
+    },
+    "5": {
+        "FMLevelName": "CondCoverage",
+        "FMAggKey": {
+            "acc_id": {
+                "src": "FM",
+                "field": "acc_id",
+                "name": "Account id based on unique PortNumber, AccNumber"
+            },
+            "CondTag":  {
+                "src": "FM",
+                "field": "CondTag",
+                "name": "Cond tag."
+            }
+        }
+    },
+    "6": {
+        "FMLevelName": "CondPD",
+        "FMAggKey": {
+            "acc_id": {
+                "src": "FM",
+                "field": "acc_id",
+                "name": "Account id based on unique PortNumber, AccNumber"
+            },
+            "CondTag":  {
+                "src": "FM",
+                "field": "CondTag",
+                "name": "Cond tag."
+            }
+        }
+    },
+    "7": {
+        "FMLevelName": "CondAll",
+        "FMAggKey": {
+            "acc_id": {
+                "src": "FM",
+                "field": "acc_id",
+                "name": "Account id based on unique PortNumber, AccNumber"
+            },
+            "CondTag":  {
+                "src": "FM",
+                "field": "CondTag",
+                "name": "Cond tag."
+            }
+        }
+    },
+    "8": {
+        "FMLevelName": "PolCoverage",
+        "FMAggKey": {
+            "acc_id": {
+                "src": "FM",
+                "field": "acc_id",
+                "name": "Account id based on unique PortNumber, AccNumber"
+            }
+        }
+    },
+    "9": {
+        "FMLevelName": "PolPD",
+        "FMAggKey": {
+            "acc_id": {
+                "src": "FM",
+                "field": "acc_id",
+                "name": "Account id based on unique PortNumber, AccNumber"
+            }
+        }
+    },
+    "10": {
+        "FMLevelName": "PolAll",
+        "FMAggKey": {
+            "acc_id": {
+                "src": "FM",
+                "field": "acc_id",
+                "name": "Account id based on unique PortNumber, AccNumber"
+            }
+        },
+        "FMSubAggKey": {
+            "step_id": {
+                "name": "Step id",
+                "field": "step_id"
+            }
+        }
+    },
+    "11": {
+        "FMLevelName": "PolLayer",
+        "FMAggKey": {
+            "acc_id": {
+                "src": "FM",
+                "field": "acc_id",
+                "name": "Account id based on unique PortNumber, AccNumber"
+            }
+        }
+    },
+    "14": {
+        "FMLevelName": "AccAll",
+        "FMAggKey": {
+            "acc_id": {
+                "src": "FM",
+                "field": "acc_id",
+                "name": "Account id based on unique PortNumber, AccNumber"
+            }
+        }
+    }
+}

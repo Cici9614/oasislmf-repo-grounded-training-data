@@ -1,0 +1,40 @@
+{
+  "total_chunks": 622,
+  "by_business_stage": {
+    "other": 436,
+    "fm": 78,
+    "gul": 59,
+    "aggregation": 26,
+    "hazard": 15,
+    "exposure": 8
+  },
+  "by_symbol_type": {
+    "function": 513,
+    "class": 109
+  },
+  "by_stage_and_type": {
+    "other": {
+      "function": 340,
+      "class": 96
+    },
+    "exposure": {
+      "class": 4,
+      "function": 4
+    },
+    "gul": {
+      "class": 7,
+      "function": 52
+    },
+    "fm": {
+      "function": 77,
+      "class": 1
+    },
+    "hazard": {
+      "function": 14,
+      "class": 1
+    },
+    "aggregation": {
+      "function": 26
+    }
+  }
+}

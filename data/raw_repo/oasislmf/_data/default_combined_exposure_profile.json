@@ -1,0 +1,600 @@
+{
+    "1": {
+        "1": {
+            "ded_code": {
+                "CoverageTypeID": 1,
+                "FMLevelName": "SiteCoverage",
+                "FMTermGroupID": 1,
+                "FMTermType": "DeductibleCode",
+                "ProfileElementName": "LocDedCode1Building",
+                "ProfileType": "Loc"
+            },
+            "ded_type": {
+                "CoverageTypeID": 1,
+                "FMLevelName": "SiteCoverage",
+                "FMTermGroupID": 1,
+                "FMTermType": "DeductibleType",
+                "ProfileElementName": "LocDedType1Building",
+                "ProfileType": "Loc"
+            },
+            "deductible": {
+                "CoverageTypeID": 1,
+                "DeductibleType": "B",
+                "FMLevelName": "SiteCoverage",
+                "FMTermGroupID": 1,
+                "FMTermType": "Deductible",
+                "ProfileElementName": "LocDed1Building",
+                "ProfileType": "Loc"
+            },
+            "deductible_max": {
+                "CoverageTypeID": 1,
+                "DeductibleType": "MA",
+                "FMLevelName": "SiteCoverage",
+                "FMTermGroupID": 1,
+                "FMTermType": "DeductibleMax",
+                "ProfileElementName": "LocMaxDed1Building",
+                "ProfileType": "Loc"
+            },
+            "deductible_min": {
+                "CoverageTypeID": 1,
+                "DeductibleType": "MI",
+                "FMLevelName": "SiteCoverage",
+                "FMTermGroupID": 1,
+                "FMTermType": "DeductibleMin",
+                "ProfileElementName": "LocMinDed1Building",
+                "ProfileType": "Loc"
+            },
+            "lim_code": {
+                "CoverageTypeID": 1,
+                "FMLevelName": "SiteCoverage",
+                "FMTermGroupID": 1,
+                "FMTermType": "LimitCode",
+                "ProfileElementName": "LocLimitCode1Building",
+                "ProfileType": "Loc"
+            },
+            "lim_type": {
+                "CoverageTypeID": 1,
+                "FMLevelName": "SiteCoverage",
+                "FMTermGroupID": 1,
+                "FMTermType": "LimitType",
+                "ProfileElementName": "LocLimitType1Building",
+                "ProfileType": "Loc"
+            },
+            "limit": {
+                "CoverageTypeID": 1,
+                "FMLevelName": "SiteCoverage",
+                "FMTermGroupID": 1,
+                "FMTermType": "Limit",
+                "ProfileElementName": "LocLimit1Building",
+                "ProfileType": "Loc"
+            },
+            "tiv": {
+                "CoverageTypeID": 1,
+                "FMLevelName": "SiteCoverage",
+                "FMTermGroupID": 1,
+                "FMTermType": "TIV",
+                "ProfileElementName": "BuildingTIV",
+                "ProfileType": "Loc"
+            }
+        },
+        "2": {
+            "ded_code": {
+                "CoverageTypeID": 2,
+                "FMLevelName": "SiteCoverage",
+                "FMTermGroupID": 2,
+                "FMTermType": "DeductibleCode",
+                "ProfileElementName": "LocDedCode2Other",
+                "ProfileType": "Loc"
+            },
+            "ded_type": {
+                "CoverageTypeID": 2,
+                "FMLevelName": "SiteCoverage",
+                "FMTermGroupID": 2,
+                "FMTermType": "DeductibleType",
+                "ProfileElementName": "LocDedType2Other",
+                "ProfileType": "Loc"
+            },
+            "deductible": {
+                "CoverageTypeID": 2,
+                "DeductibleType": "B",
+                "FMLevelName": "SiteCoverage",
+                "FMTermGroupID": 2,
+                "FMTermType": "Deductible",
+                "ProfileElementName": "LocDed2Other",
+                "ProfileType": "Loc"
+            },
+            "deductible_max": {
+                "CoverageTypeID": 2,
+                "DeductibleType": "MA",
+                "FMLevelName": "SiteCoverage",
+                "FMTermGroupID": 2,
+                "FMTermType": "DeductibleMax",
+                "ProfileElementName": "LocMaxDed2Other",
+                "ProfileType": "Loc"
+            },
+            "deductible_min": {
+                "CoverageTypeID": 2,
+                "DeductibleType": "MI",
+                "FMLevelName": "SiteCoverage",
+                "FMTermGroupID": 2,
+                "FMTermType": "DeductibleMin",
+                "ProfileElementName": "LocMinDed2Other",
+                "ProfileType": "Loc"
+            },
+            "lim_code": {
+                "CoverageTypeID": 2,
+                "FMLevelName": "SiteCoverage",
+                "FMTermGroupID": 2,
+                "FMTermType": "LimitCode",
+                "ProfileElementName": "LocLimitCode2Other",
+                "ProfileType": "Loc"
+            },
+            "lim_type": {
+                "CoverageTypeID": 2,
+                "FMLevelName": "SiteCoverage",
+                "FMTermGroupID": 2,
+                "FMTermType": "LimitType",
+                "ProfileElementName": "LocLimitType2Other",
+                "ProfileType": "Loc"
+            },
+            "limit": {
+                "CoverageTypeID": 2,
+                "FMLevelName": "SiteCoverage",
+                "FMTermGroupID": 2,
+                "FMTermType": "Limit",
+                "ProfileElementName": "LocLimit2Other",
+                "ProfileType": "Loc"
+            },
+            "tiv": {
+                "CoverageTypeID": 2,
+                "FMLevelName": "SiteCoverage",
+                "FMTermGroupID": 2,
+                "FMTermType": "TIV",
+                "ProfileElementName": "OtherTIV",
+                "ProfileType": "Loc"
+            }
+        },
+        "3": {
+            "ded_code": {
+                "CoverageTypeID": 3,
+                "FMLevelName": "SiteCoverage",
+                "FMTermGroupID": 3,
+                "FMTermType": "DeductibleCode",
+                "ProfileElementName": "LocDedCode3Contents",
+                "ProfileType": "Loc"
+            },
+            "ded_type": {
+                "CoverageTypeID": 3,
+                "FMLevelName": "SiteCoverage",
+                "FMTermGroupID": 3,
+                "FMTermType": "DeductibleType",
+                "ProfileElementName": "LocDedType3Contents",
+                "ProfileType": "Loc"
+            },
+            "deductible": {
+                "CoverageTypeID": 3,
+                "DeductibleType": "B",
+                "FMLevelName": "SiteCoverage",
+                "FMTermGroupID": 3,
+                "FMTermType": "Deductible",
+                "ProfileElementName": "LocDed3Contents",
+                "ProfileType": "Loc"
+            },
+            "deductible_max": {
+                "CoverageTypeID": 3,
+                "DeductibleType": "MA",
+                "FMLevelName": "SiteCoverage",
+                "FMTermGroupID": 3,
+                "FMTermType": "DeductibleMax",
+                "ProfileElementName": "LocMaxDed3Contents",
+                "ProfileType": "Loc"
+            },
+            "deductible_min": {
+                "CoverageTypeID": 3,
+                "DeductibleType": "MI",
+                "FMLevelName": "SiteCoverage",
+                "FMTermGroupID": 3,
+                "FMTermType": "DeductibleMin",
+                "ProfileElementName": "LocMinDed3Contents",
+                "ProfileType": "Loc"
+            },
+            "lim_code": {
+                "CoverageTypeID": 3,
+                "FMLevelName": "SiteCoverage",
+                "FMTermGroupID": 3,
+                "FMTermType": "LimitCode",
+                "ProfileElementName": "LocLimitCode3Contents",
+                "ProfileType": "Loc"
+            },
+            "lim_type": {
+                "CoverageTypeID": 3,
+                "FMLevelName": "SiteCoverage",
+                "FMTermGroupID": 3,
+                "FMTermType": "LimitType",
+                "ProfileElementName": "LocLimitType3Contents",
+                "ProfileType": "Loc"
+            },
+            "limit": {
+                "CoverageTypeID": 3,
+                "FMLevelName": "SiteCoverage",
+                "FMTermGroupID": 3,
+                "FMTermType": "Limit",
+                "ProfileElementName": "LocLimit3Contents",
+                "ProfileType": "Loc"
+            },
+            "tiv": {
+                "CoverageTypeID": 3,
+                "FMLevelName": "SiteCoverage",
+                "FMTermGroupID": 3,
+                "FMTermType": "TIV",
+                "ProfileElementName": "ContentsTIV",
+                "ProfileType": "Loc"
+            }
+        },
+        "4": {
+            "ded_code": {
+                "CoverageTypeID": 4,
+                "FMLevelName": "SiteCoverage",
+                "FMTermGroupID": 4,
+                "FMTermType": "DeductibleCode",
+                "ProfileElementName": "LocDedCode4BI",
+                "ProfileType": "Loc"
+            },
+            "ded_type": {
+                "CoverageTypeID": 4,
+                "FMLevelName": "SiteCoverage",
+                "FMTermGroupID": 4,
+                "FMTermType": "DeductibleType",
+                "ProfileElementName": "LocDedType4BI",
+                "ProfileType": "Loc"
+            },
+            "deductible": {
+                "CoverageTypeID": 4,
+                "DeductibleType": "B",
+                "FMLevelName": "SiteCoverage",
+                "FMTermGroupID": 4,
+                "FMTermType": "Deductible",
+                "ProfileElementName": "LocDed4BI",
+                "ProfileType": "Loc"
+            },
+            "deductible_max": {
+                "CoverageTypeID": 4,
+                "DeductibleType": "MA",
+                "FMLevelName": "SiteCoverage",
+                "FMTermGroupID": 4,
+                "FMTermType": "DeductibleMax",
+                "ProfileElementName": "LocMaxDed4BI",
+                "ProfileType": "Loc"
+            },
+            "deductible_min": {
+                "CoverageTypeID": 4,
+                "DeductibleType": "MI",
+                "FMLevelName": "SiteCoverage",
+                "FMTermGroupID": 4,
+                "FMTermType": "DeductibleMin",
+                "ProfileElementName": "LocMinDed4BI",
+                "ProfileType": "Loc"
+            },
+            "lim_code": {
+                "CoverageTypeID": 4,
+                "FMLevelName": "SiteCoverage",
+                "FMTermGroupID": 4,
+                "FMTermType": "LimitCode",
+                "ProfileElementName": "LocLimitCode4BI",
+                "ProfileType": "Loc"
+            },
+            "lim_type": {
+                "CoverageTypeID": 4,
+                "FMLevelName": "SiteCoverage",
+                "FMTermGroupID": 4,
+                "FMTermType": "LimitType",
+                "ProfileElementName": "LocLimitType4BI",
+                "ProfileType": "Loc"
+            },
+            "limit": {
+                "CoverageTypeID": 4,
+                "FMLevelName": "SiteCoverage",
+                "FMTermGroupID": 4,
+                "FMTermType": "Limit",
+                "ProfileElementName": "LocLimit4BI",
+                "ProfileType": "Loc"
+            },
+            "tiv": {
+                "CoverageTypeID": 4,
+                "FMLevelName": "SiteCoverage",
+                "FMTermGroupID": 4,
+                "FMTermType": "TIV",
+                "ProfileElementName": "BITIV",
+                "ProfileType": "Loc"
+            }
+        }
+    },
+    "2": {
+        "1": {
+            "ded_code": {
+                "FMLevelName": "SitePD",
+                "FMTermGroupID": 1,
+                "FMTermType": "DeductibleCode",
+                "ProfileElementName": "LocDedCode5PD",
+                "ProfileType": "Loc"
+            },
+            "ded_type": {
+                "FMLevelName": "SitePD",
+                "FMTermGroupID": 1,
+                "FMTermType": "DeductibleType",
+                "ProfileElementName": "LocDedType5PD",
+                "ProfileType": "Loc"
+            },
+            "deductible": {
+                "CoverageTypeID": [
+                    1,
+                    2,
+                    3
+                ],
+                "DeductibleType": "B",
+                "FMLevelName": "SitePD",
+                "FMTermGroupID": 1,
+                "FMTermType": "Deductible",
+                "ProfileElementName": "LocDed5PD",
+                "ProfileType": "Loc"
+            },
+            "deductible_max": {
+                "DeductibleType": "MA",
+                "FMLevelName": "SitePD",
+                "FMTermGroupID": 1,
+                "FMTermType": "DeductibleMax",
+                "ProfileElementName": "LocMaxDed5PD",
+                "ProfileType": "Loc"
+            },
+            "deductible_min": {
+                "DeductibleType": "MI",
+                "FMLevelName": "SitePD",
+                "FMTermGroupID": 1,
+                "FMTermType": "DeductibleMin",
+                "ProfileElementName": "LocMinDed5PD",
+                "ProfileType": "Loc"
+            },
+            "lim_code": {
+                "FMLevelName": "SitePD",
+                "FMTermGroupID": 1,
+                "FMTermType": "LimitCode",
+                "ProfileElementName": "LocLimitCode5PD",
+                "ProfileType": "Loc"
+            },
+            "lim_type": {
+                "FMLevelName": "SitePD",
+                "FMTermGroupID": 1,
+                "FMTermType": "LimitType",
+                "ProfileElementName": "LocLimitType5PD",
+                "ProfileType": "Loc"
+            },
+            "limit": {
+                "CoverageTypeID": [
+                    1,
+                    2,
+                    3
+                ],
+                "FMLevelName": "SitePD",
+                "FMTermGroupID": 1,
+                "FMTermType": "Limit",
+                "ProfileElementName": "LocLimit5PD",
+                "ProfileType": "Loc"
+            }
+        }
+    },
+    "3": {
+        "1": {
+            "ded_code": {
+                "FMLevelName": "SiteAll",
+                "FMTermGroupID": 1,
+                "FMTermType": "DeductibleCode",
+                "ProfileElementName": "LocDedCode6All",
+                "ProfileType": "Loc"
+            },
+            "ded_type": {
+                "FMLevelName": "SiteAll",
+                "FMTermGroupID": 1,
+                "FMTermType": "DeductibleType",
+                "ProfileElementName": "LocDedType6All",
+                "ProfileType": "Loc"
+            },
+            "deductible": {
+                "DeductibleType": "B",
+                "FMLevelName": "SiteAll",
+                "FMTermGroupID": 1,
+                "FMTermType": "Deductible",
+                "ProfileElementName": "LocDed6All",
+                "ProfileType": "Loc"
+            },
+            "deductible_max": {
+                "DeductibleType": "MA",
+                "FMLevelName": "SiteAll",
+                "FMTermGroupID": 1,
+                "FMTermType": "DeductibleMax",
+                "ProfileElementName": "LocMaxDed6All",
+                "ProfileType": "Loc"
+            },
+            "deductible_min": {
+                "DeductibleType": "MI",
+                "FMLevelName": "SiteAll",
+                "FMTermGroupID": 1,
+                "FMTermType": "DeductibleMin",
+                "ProfileElementName": "LocMinDed6All",
+                "ProfileType": "Loc"
+            },
+            "lim_code": {
+                "FMLevelName": "SiteAll",
+                "FMTermGroupID": 1,
+                "FMTermType": "LimitCode",
+                "ProfileElementName": "LocLimitCode6All",
+                "ProfileType": "Loc"
+            },
+            "lim_type": {
+                "FMLevelName": "SiteAll",
+                "FMTermGroupID": 1,
+                "FMTermType": "LimitType",
+                "ProfileElementName": "LocLimitType6All",
+                "ProfileType": "Loc"
+            },
+            "limit": {
+                "FMLevelName": "SiteAll",
+                "FMTermGroupID": 1,
+                "FMTermType": "Limit",
+                "ProfileElementName": "LocLimit6All",
+                "ProfileType": "Loc"
+            }
+        }
+    },
+    "6": {
+        "1": {
+            "ded_code": {
+                "FMLevelName": "CondAll",
+                "FMTermGroupID": 1,
+                "FMTermType": "DeductibleCode",
+                "ProfileElementName": "CondDedCode6All",
+                "ProfileType": "Acc"
+            },
+            "ded_type": {
+                "FMLevelName": "CondAll",
+                "FMTermGroupID": 1,
+                "FMTermType": "DeductibleType",
+                "ProfileElementName": "CondDedType6All",
+                "ProfileType": "Acc"
+            },
+            "deductible": {
+                "DeductibleType": "B",
+                "FMLevelName": "CondAll",
+                "FMTermGroupID": 1,
+                "FMTermType": "Deductible",
+                "ProfileElementName": "CondDed6All",
+                "ProfileType": "Acc"
+            },
+            "deductible_max": {
+                "DeductibleType": "MA",
+                "FMLevelName": "CondAll",
+                "FMTermGroupID": 1,
+                "FMTermType": "DeductibleMax",
+                "ProfileElementName": "CondMaxDed6All",
+                "ProfileType": "Acc"
+            },
+            "deductible_min": {
+                "DeductibleType": "MI",
+                "FMLevelName": "CondAll",
+                "FMTermGroupID": 1,
+                "FMTermType": "DeductibleMin",
+                "ProfileElementName": "CondMinDed6All",
+                "ProfileType": "Acc"
+            },
+            "lim_code": {
+                "FMLevelName": "CondAll",
+                "FMTermGroupID": 1,
+                "FMTermType": "LimitCode",
+                "ProfileElementName": "CondLimitCode6All",
+                "ProfileType": "Acc"
+            },
+            "lim_type": {
+                "FMLevelName": "CondAll",
+                "FMTermGroupID": 1,
+                "FMTermType": "LimitType",
+                "ProfileElementName": "CondLimitType6All",
+                "ProfileType": "Acc"
+            },
+            "limit": {
+                "FMLevelName": "CondAll",
+                "FMTermGroupID": 1,
+                "FMTermType": "Limit",
+                "ProfileElementName": "CondLimit6All",
+                "ProfileType": "Acc"
+            }
+        }
+    },
+    "9": {
+        "1": {
+            "ded_code": {
+                "FMLevelName": "PolAll",
+                "FMTermGroupID": 1,
+                "FMTermType": "DeductibleCode",
+                "ProfileElementName": "PolDedCode6All",
+                "ProfileType": "Acc"
+            },
+            "ded_type": {
+                "DeductibleType": "B",
+                "FMLevelName": "PolAll",
+                "FMTermGroupID": 1,
+                "FMTermType": "DeductibleType",
+                "ProfileElementName": "PolDedType6All",
+                "ProfileType": "Acc"
+            },
+            "deductible": {
+                "DeductibleType": "B",
+                "FMLevelName": "PolAll",
+                "FMTermGroupID": 1,
+                "FMTermType": "Deductible",
+                "ProfileElementName": "PolDed6All",
+                "ProfileType": "Acc"
+            },
+            "deductible_max": {
+                "DeductibleType": "MA",
+                "FMLevelName": "PolAll",
+                "FMTermGroupID": 1,
+                "FMTermType": "DeductibleMax",
+                "ProfileElementName": "PolMaxDed6All",
+                "ProfileType": "Acc"
+            },
+            "deductible_min": {
+                "DeductibleType": "MI",
+                "FMLevelName": "PolAll",
+                "FMTermGroupID": 1,
+                "FMTermType": "DeductibleMin",
+                "ProfileElementName": "PolMinDed6All",
+                "ProfileType": "Acc"
+            },
+            "lim_code": {
+                "FMLevelName": "PolAll",
+                "FMTermGroupID": 1,
+                "FMTermType": "LimitCode",
+                "ProfileElementName": "PolLimitCode6All",
+                "ProfileType": "Acc"
+            },
+            "lim_type": {
+                "FMLevelName": "PolAll",
+                "FMTermGroupID": 1,
+                "FMTermType": "LimitType",
+                "ProfileElementName": "PolLimitType6All",
+                "ProfileType": "Acc"
+            },
+            "limit": {
+                "FMLevelName": "PolAll",
+                "FMTermGroupID": 1,
+                "FMTermType": "Limit",
+                "ProfileElementName": "PolLimit6All",
+                "ProfileType": "Acc"
+            }
+        }
+    },
+    "10": {
+        "1": {
+            "attachment": {
+                "FMLevelName": "PolLayer",
+                "FMTermGroupID": 1,
+                "FMTermType": "Attachment",
+                "ProfileElementName": "LayerAttachment",
+                "ProfileType": "Acc"
+            },
+            "limit": {
+                "FMLevelName": "PolLayer",
+                "FMTermGroupID": 1,
+                "FMTermType": "Limit",
+                "ProfileElementName": "LayerLimit",
+                "ProfileType": "Acc"
+            },
+            "share": {
+                "FMLevelName": "PolLayer",
+                "FMTermGroupID": 1,
+                "FMTermType": "Share",
+                "ProfileElementName": "LayerParticipation",
+                "ProfileType": "Acc"
+            }
+        }
+    }
+}

@@ -1,0 +1,185 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Ktools binary files
+*.bin
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# pip-tools generated files
+requirements.txt
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+deveploment_environment/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache
+validation/runs
+tmp/
+*.npy
+runs/
+
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+docs/build/
+docs/source/autoapi
+docs/source/generated_options.rst
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# dotenv
+.env
+
+# virtualenv
+.venv
+venv/
+ENV/
+
+# pip-compiled requirements
+requirements.txt
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+
+# output bash scripts from tests
+tests/model_execution/cov_kparse_output/
+tests/model_execution/err_kparse_output/
+tests/model_execution/eve_kparse_output/
+tests/model_execution/itm_kparse_output/
+tests/model_execution/lb_kparse_output/
+tests/model_execution/tmp_kparse_output/
+tests/model_execution/err_fc_kparse_output/
+tests/model_execution/itm_fc_kparse_output/
+tests/model_execution/tmp_fc_kparse_output/
+tests/assets/test_summarypy/**/error_files/
+tests/assets/test_join-summary-info/**/error_files/
+tests/assets/test_katpy/**/error_files/
+tests/assets/test_eltpy/**/error_files/
+tests/assets/test_pltpy/**/error_files/
+tests/assets/test_aalpy/**/error_files/
+tests/assets/test_lecpy/**/error_files/
+tests/assets/test_common/**/error_files/
+tests/assets/test_converters/**/error_files/
+
+!tests/pytools/data_layer/oasis_files/meta_data/correlations.bin
+
+# do not ignore .bin files in test model assets directories
+!tests/assets/test_model_?/*.bin
+!tests/assets/test_model_?/input/*.bin
+!tests/assets/test_model_?/static/*.bin
+!tests/assets/test_model_?/expected/*.bin
+!tests/assets/test_adjustments_?/*.bin
+!tests/assets/test_adjustments_?/input/*.bin
+!tests/assets/test_adjustments_?/static/*.bin
+!tests/assets/test_adjustments_?/expected/*.bin
+!tests/assets/test_summarypy/*.bin
+!tests/assets/test_summarypy/single_summary_set/*.bin
+!tests/assets/test_summarypy/**/*.bin
+!tests/getmodel/footprints/footprint.bin
+!tests/assets/test_join-summary-info/*.bin
+!tests/assets/test_join-summary-info/**/*.bin
+!tests/assets/test_katpy/*.bin
+!tests/assets/test_katpy/**/*.bin
+!tests/assets/test_eltpy/*.bin
+!tests/assets/test_eltpy/**/*.bin
+!tests/assets/test_pltpy/*.bin
+!tests/assets/test_pltpy/**/*.bin
+!tests/assets/test_aalpy/*.bin
+!tests/assets/test_aalpy/**/*.bin
+!tests/assets/test_lecpy/*.bin
+!tests/assets/test_lecpy/**/*.bin
+!tests/assets/test_common/*.bin
+!tests/assets/test_common/**/*.bin
+!tests/assets/test_converters/*.bin
+!tests/assets/test_converters/**/*.bin
+
+
+# pycharm
+.idea/
+data/
+
+# vs code
+.vscode/
+
+# mac os
+.DS_Store/
+.DS_Store
