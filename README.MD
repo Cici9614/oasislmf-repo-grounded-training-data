@@ -48,7 +48,7 @@ oasislmf-repo-grounded-training-data/
 
 ## 5. 环境依赖
 
--Python 3.10+（已在 Python 3.12 验证）
+Python 3.10+（已在 Python 3.12 验证）
 
 **依赖安装：**
 
@@ -56,9 +56,18 @@ oasislmf-repo-grounded-training-data/
 pip install pydantic
 ```
 
+
 ## 6. 如何运行（Windows / PyCharm）
 
-在项目根目录执行以下命令即可复现全部产物：
+### 6.1 准备 OasisLMF 源码（repo-grounded 数据来源）
+
+本项目不在仓库中包含第三方源码。请先将 OasisLMF 克隆到 `data/raw_repo/`：
+
+```bash
+git clone https://github.com/OasisLMF/OasisLMF.git data/raw_repo
+```
+
+### 6.2 在项目根目录执行以下命令即可复现全部产物：
 
 ```powershell
 # 1) 生成中间索引（chunk catalog + stats）

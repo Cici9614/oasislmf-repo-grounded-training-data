@@ -1,0 +1,7 @@
+.idea/
+anaconda_projects/
+data/raw_repo/
+data/intermediate/
+data/final_datasets/
+__pycache__/
+*.pyc
